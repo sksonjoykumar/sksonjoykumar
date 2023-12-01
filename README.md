@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front End Developer From Dhaka, Bangladesh</h3>
 
 <img
-  align="right"
+  align="center"
   width="600"
   height="250"
   margin-top="20px"
