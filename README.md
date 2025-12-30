@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonjoy Kumar</h1>
-<h3 align="center">A Passionate Front End Developer From Dhaka, Bangladesh</h3>
+<h3 align="center">A Passionate Web Developer From Dhaka, Bangladesh</h3>
 
 <img
   align="center"
