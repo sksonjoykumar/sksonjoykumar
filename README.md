@@ -1,191 +1,104 @@
 <h1 align="center">Hi 👋, I'm Sonjoy Kumar</h1>
-<h3 align="center">A Passionate Web Developer From Dhaka, Bangladesh</h3>
+<h3 align="center">
+Frontend Web Developer (React & Next.js) <br/>
+with Backend Familiarity
+</h3>
+<p align="center">Gaibandha, Rangpur, Bangladesh 🇧🇩</p>
 
-<img
-  align="center"
-  width="600"
-  height="250"
-  margin-top="20px"
-  margin-button="20px"
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-  alt="coding"
-/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sksonjoykumar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=sksonjoykumar&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sksonjoykumar"
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+    width="700"
+    alt="coding"
   />
 </p>
 
+---
+
+## 👨‍💻 About Me
+I’m a **Front-end Web Developer with 2.5 years of experience** building scalable and high-performance web applications using **React, Next.js, and TypeScript**.
+
+I focus on **clean, maintainable code**, performance optimization, and smooth user experiences.  
+I also have **basic backend knowledge**, enabling effective collaboration with full-stack teams.
+
+🎯 **Actively seeking opportunities** where I can grow and contribute to impactful digital products.
+
+---
+
+## 🧩 Tech Stack
+
+### 🎨 Frontend
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+- JavaScript (ES6+), TypeScript
+- React.js, Redux
+- Next.js
+
+### ⚙️ Backend (Familiar)
+- Node.js
+- Express.js
+- RESTful APIs
+- MongoDB
+- Stripe (Payment Integration)
+
+---
+
+## 🛠️ Tools & Platforms
+- Git & GitHub
+- Vercel, Netlify
+- VS Code
+- Postman
+- Figma
+- Chrome DevTools
+
+---
+
+## 🤝 Soft Skills
+- Problem-solving
+- Team Collaboration
+- Hard Working
+- Management
+- Continuous Learning
+
+---
+
+## 📞 Contact Information
+- 📱 **Phone:** +8801301-910885  
+- 📧 **Email:** sksonjoykumar111@gmail.com  
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=sksonjoykumar"
-      alt="sksonjoykumar"
-  /></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/sksonjoykumar" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="sksonjoykumar111"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.linkedin.com/in/sonjoy-kumar-337126255/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/sonjoy-kumar"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://stackoverflow.com/users/21180598/sonjoy-kumar" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="https://stackoverflow.com/users/21180598/sonjoy-kumar"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/sksonjoykumar111" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="sksonjoykumar111"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/sksonjoykumar111" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="sksonjoykumar111"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://hashnode.com/@sksonjoykumar111" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-      alt="https://hashnode.com/@sksonjoykumar111"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/sk_sonjoy_kumar/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="https://leetcode.com/sk_sonjoy_kumar/"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
+  <a href="https://www.linkedin.com/in/sonjoy-kumar-337126255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
+  <a href="https://facebook.com/sksonjoykumar111" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
+  <a href="https://twitter.com/sksonjoykumar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
+  <a href="https://hashnode.com/@sksonjoykumar111" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
+  <a href="https://www.leetcode.com/sk_sonjoy_kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sksonjoykumar&show_icons=true&locale=en&layout=compact"
-    alt="sksonjoykumar"
-  />
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sksonjoykumar&show_icons=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksonjoykumar&cache_seconds=86400" width="48%" />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sksonjoykumar&show_icons=true&locale=en"
-    alt="sksonjoykumar"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sksonjoykumar&"
-    alt="sksonjoykumar"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksonjoykumar&layout=compact&cache_seconds=86400" width="45%" />
 </p>
