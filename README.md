@@ -42,7 +42,7 @@ I also have **basic backend knowledge**, allowing me to collaborate efficiently 
 
 ## 🌐 Socials
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsksonjoykumar.vercel.app%2F)](https://sksonjoykumar.vercel.app/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsksonjoykumar.vercel.app%2F)](https://sksonjoykumar111.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonjoy-kumar-337126255/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sksonjoykumar111)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sksonjoykumar111/)
