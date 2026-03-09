@@ -123,12 +123,12 @@ I’m a **Frontend Web Developer with 2.5+ years of experience** building scalab
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=sksonjoykumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
+    width="49%"
     alt="GitHub stats"
   />
   <img
     src="https://streak-stats.demolab.com?user=sksonjoykumar&theme=tokyonight&hide_border=true"
-    height="170"
+    width="49%"
     alt="GitHub streak"
   />
 </p>
