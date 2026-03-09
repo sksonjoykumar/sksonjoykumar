@@ -37,7 +37,7 @@ I’m a **Frontend Web Developer with 2.5+ years of experience** building scalab
 - 👤 **Name:** Sonjoy Kumar  
 - 📱 **Phone:** +8801301-910885  
 - 📧 **Email:** sksonjoykumar111@gmail.com  
-- 📍 **Location:** Gaibandha, Rangpur, Bangladesh  
+- 📍 **Location:** Dhaka, Bangladesh  
 
 ---
 
